@@ -11,6 +11,8 @@ int sumaArreglo(int arr[], int n){
 	return suma;
 }
 
+//caracoles
+
 int maximo (int arr[], int n){
 	int max= arr[0];
 	for (int i =1; i<n ;i++){

@@ -12,6 +12,7 @@ int sumaArreglo(int arr[], int n){
 }
 
 //caracoles
+//cambio interno
 
 int maximo (int arr[], int n){
 	int max= arr[0];
